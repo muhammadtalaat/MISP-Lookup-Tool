@@ -6,7 +6,7 @@ The MISP Lookup Tool is a PowerShell script designed to facilitate bulk IOCs loo
 This tool streamlines the process of querying MISP for information about a large number of IOCs at once, which is particularly useful for security analysts, threat intelligence researchers, and network administrators dealing with potentially malicious IOCs.
 
 ## Key Features
-- **Bulk IOCs Lookup**: Input a list of IOCs in a TXT file and query MISP for information about each IP in bulk.
+- **Bulk IOCs Lookup**: Input a list of IOCs in a TXT file and query MISP for information about each IOC in bulk.
 - **Export Results**: Save the results of the IOCs lookups to a CSV file for offline analysis and reporting.
 - **Graphical Interface**: User-friendly interface with text fields and buttons for easy interaction.
 - **Error Handling**: Provides warnings and error messages for missing input fields or failed queries.
