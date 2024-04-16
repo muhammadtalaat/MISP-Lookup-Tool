@@ -20,9 +20,9 @@ This tool streamlines the process of querying MISP for information about a large
 6. **Result Notification**: Upon completion, a message box notifies you that the search is completed, and the results are saved to the specified CSV file.
 
 ## Installation
-1. **Clone Repository**: Clone this repository to your local machine using Git, or download the `MISP_Lookup.ps1` script file directly.
+1. **Clone Repository**: Clone this repository to your local machine, or download the `MISP_Lookup.ps1` script file directly.
 2. **Ensure PowerShell Execution Policy**: Ensure that PowerShell execution policy allows running scripts. You may need to set it to RemoteSigned or Unrestricted for the script to execute without issues.
-3. **Run Script**: Execute the `MISP_Lookup.ps1` script by running it in PowerShell with Admin Privilage.
+3. **Run Script**: Execute the `MISP_Lookup.ps1` script by running it in PowerShell.
 
 ## Screenshots
 ![image](https://github.com/muhammadtalaat/MISP-Lookup-Tool/assets/167099589/56ecb47a-8b5c-4dac-938f-177edfb168de)
