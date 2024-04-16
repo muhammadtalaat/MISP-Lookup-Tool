@@ -1,4 +1,5 @@
-﻿Add-Type -AssemblyName System.Windows.Forms
+#MISP Lookup Tool V1.0#
+ Add-Type -AssemblyName System.Windows.Forms
 [System.Windows.Forms.Application]::EnableVisualStyles()
 [System.Net.ServicePointManager]::ServerCertificateValidationCallback = {$true}
 
