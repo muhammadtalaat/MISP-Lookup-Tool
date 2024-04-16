@@ -26,3 +26,8 @@ This tool streamlines the process of querying MISP for information about a large
 1. **Clone Repository**: Clone this repository to your local machine, or download the `MISP_Lookup.ps1` script file directly.
 2. **Ensure PowerShell Execution Policy**: Ensure that PowerShell execution policy allows running scripts. You may need to set it to RemoteSigned or Unrestricted for the script to execute without issues.
 3. **Run Script**: Execute the `MISP_Lookup.ps1` script by running it in PowerShell.
+
+## References
+1. https://www.misp-project.org/openapi/
+2. https://www.circl.lu/doc/misp/automation/
+3. https://docs.virustotal.com/docs/misp-connector
